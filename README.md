@@ -1,2 +1,2 @@
 # Volcon
-Apenas o driver do MongoDb em python simplificado.
+Aqui está o Pymongo, mas com algumas leves melhorias.
