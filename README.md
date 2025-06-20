@@ -1,2 +1,2 @@
 # volcon
-Um simples framework web de código aberto.
+Apenas o driver do MongoDb em python simplificado.
